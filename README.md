@@ -75,8 +75,6 @@ train_set.columns = col_labels
 test_set.columns = col_labels
 
 
-print(".............Evaluation metrics..............")
-
 .............Evaluation metrics..............
 
 Accuracy:  0.8872919353848043
