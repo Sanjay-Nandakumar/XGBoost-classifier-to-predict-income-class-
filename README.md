@@ -77,12 +77,15 @@ test_set.columns = col_labels
 
 print(".............Evaluation metrics..............")
 
-print("Accuracy: ",accuracy)
+.............Evaluation metrics..............
 
-print("cm: ",cm)
+Accuracy:  0.8872919353848043
+cm:  [[12145   290]
+ 
+      [ 1545  2301]]
 
-print("Precision: ",precision)
+Precision:  0.8871439006574142
 
-print("Recall: ",recall)
+Recall:  0.9766787293928428
 
-print("F1Score: ",f1score)
+F1Score:  0.9297607655502392
