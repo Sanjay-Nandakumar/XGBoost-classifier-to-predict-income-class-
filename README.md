@@ -74,4 +74,15 @@ train_set.columns = col_labels
 
 test_set.columns = col_labels
 
-NOTE:Thesolutionsharedthrou
+
+print(".............Evaluation metrics..............")
+
+print("Accuracy: ",accuracy)
+
+print("cm: ",cm)
+
+print("Precision: ",precision)
+
+print("Recall: ",recall)
+
+print("F1Score: ",f1score)
